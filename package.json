@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "main -d dist",
+    "deploy": "main -d build",
     "preview": "vite preview",
     "lint": "eslint ."
   },
